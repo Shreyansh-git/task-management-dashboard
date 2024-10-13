@@ -1,3 +1,23 @@
+# Task Management Dashboard
+
+## Overview
+
+The Task Management Dashboard is a React application that allows users to create, edit, delete, and manage tasks efficiently. The application includes features such as task filtering, sorting, searching, and persistent data storage using local storage.
+
+## Features
+
+- **Create, Edit, and Delete Tasks**: Users can manage their tasks easily.
+- **Search Functionality**: Quickly find tasks by title or description.
+- **Filtering**: Filter tasks by status (Pending, In Progress, Completed).
+- **Sorting**: Sort tasks by due date in ascending or descending order.
+- **Persistent Storage**: User tasks are saved in local storage, ensuring data is retained across page reloads.
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **JavaScript**: For application logic.
+- **CSS**: For styling the application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
